@@ -1,8 +1,13 @@
 {
-  "name": "pure-dark-theme",
-  "displayName": "Pure Dark Theme",
+  "name": "void-space",
+  "displayName": "void-space",
   "description": "Dark theme with a pure black background.",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huimiu/void-space"
+  },
+  "publisher": "huimiao",
   "engines": {
     "vscode": "^1.98.0"
   },
@@ -12,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pure Dark Theme",
+        "label": "Void Space",
         "uiTheme": "vs-dark",
-        "path": "./themes/Pure Dark Theme-color-theme.json"
+        "path": "./themes/Void Space-color-theme.json"
       }
     ]
   }
