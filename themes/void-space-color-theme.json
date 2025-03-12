@@ -1,5 +1,4 @@
 {
-	"name": "Pure Dark Theme",
 	"colors": {
 		"activityBar.activeBorder": "#ffffff00",
 		"activityBar.activeFocusBorder": "#ffffff00",
@@ -53,11 +52,11 @@
 		"editorWidget.background": "#222222",
 		"editorWidget.border": "#ffffff00",
 		"errorForeground": "#f85149",
-		"focusBorder": "#0078d4",
+		"focusBorder": "#1f1f1f",
 		"foreground": "#cccccc",
 		"icon.foreground": "#cccccc",
-		"input.background": "#1f1f1f",
-		"input.border": "#ffffff00",
+		"input.background": "#000000",
+		"input.border": "#1f1f1f",
 		"input.foreground": "#ffffff",
 		"input.placeholderForeground": "#ffffff77",
 		"inputOption.activeBackground": "#2489db82",
@@ -93,8 +92,9 @@
 		"pickerGroup.foreground": "#8b949e",
 		"ports.iconRunningProcessForeground": "#369432",
 		"progressBar.background": "#0078d4",
-		"quickInput.background": "#1f1f1f",
+		"quickInput.background": "#000000",
 		"quickInput.foreground": "#cccccc",
+		"quickInputTitle.background": "#000000",
 		"scrollbar.shadow": "#484f5833",
 		"scrollbarSlider.activeBackground": "#6e768187",
 		"scrollbarSlider.background": "#6e768133",
@@ -151,8 +151,9 @@
 		"titleBar.inactiveForeground": "#8b949e",
 		"welcomePage.progress.foreground": "#0078d4",
 		"welcomePage.tileBackground": "#ffffff0f",
-		"widget.border": "#ffffff15",
+		"widget.border": "#ffffff15"
 	},
+	"name": "Pure Dark Theme",
 	"tokenColors": [
 		{
 			"scope": [
@@ -262,15 +263,15 @@
 		{
 			"scope": "markup.bold",
 			"settings": {
-				"foreground": "#569CD6",
-				"fontStyle": "bold"
+				"fontStyle": "bold",
+				"foreground": "#569CD6"
 			}
 		},
 		{
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#569CD6",
-				"fontStyle": "bold"
+				"fontStyle": "bold",
+				"foreground": "#569CD6"
 			}
 		},
 		{
@@ -705,15 +706,15 @@
 				"comment"
 			],
 			"settings": {
-				"foreground": "#888888",
-				"fontStyle": "italic"
+				"fontStyle": "italic",
+				"foreground": "#888888"
 			}
 		},
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#888888",
-				"fontStyle": "italic"
+				"fontStyle": "italic",
+				"foreground": "#888888"
 			}
 		},
 		{
@@ -722,8 +723,8 @@
 				"comment.block"
 			],
 			"settings": {
-				"foreground": "#AAAAAA",
-				"fontStyle": "italic"
+				"fontStyle": "italic",
+				"foreground": "#AAAAAA"
 			}
 		},
 		{
